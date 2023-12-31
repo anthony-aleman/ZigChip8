@@ -5,10 +5,6 @@ This project is a deep dive into the world of emulation, crafted to decode the i
 ![Hello_chip8](https://github.com/anthony-aleman/ZigChip8/assets/58735466/7398d02f-0bc0-4889-8178-b60a4e94a50d)
 
 
-![trip8](https://github.com/anthony-aleman/ZigChip8/assets/58735466/f9c30214-7b44-40dd-a7ca-dc0e29bbc18b)
-
-
-
 Created alongside this tutorial: https://youtu.be/YHkBgR6yvbY?si=eBINyXffxy44i-X1
 
 Used this specification sheet to reference for opcodes: http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
